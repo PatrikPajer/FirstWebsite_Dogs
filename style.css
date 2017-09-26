@@ -1,0 +1,54 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: hsl(40, 91%, 75%);
+}
+
+h1 {
+  font-weight: 600;
+  font-family: "Helvetica";
+}
+
+table {
+  border: 5px solid black;
+}
+
+div .dog-table {
+  background-color: #fff;
+  border-color: hsl(255, 91%, 75%);
+  border-radius: 10px;
+}
+
+th {
+  border: 1px solid black;
+  padding: 5px 10px;
+}
+
+td {
+  border: 1px dotted black;
+  padding: 5px 10px;
+}
+
+th,
+td {
+  text-align: center;
+}
+
+#header {
+  text-align: center;
+}
+
+#mops0 {
+  position: relative;
+  top: 50px;
+  float: bottom;
+  margin: 10px 10px;
+}
+
+#made-possible {
+  float: top;
+}
+
+
